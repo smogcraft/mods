@@ -2,7 +2,9 @@
 
 open a command terminal to your `.minecraft` folder and type
 ```git clone https://github.com/smogcraft/mods/```
+
 **THIS REQUIRES YOU TO HAVE GIT INSTALLED
+
 **it is installed on macos and linux by default, but not on windows
 
 If you have a `mods` folder already, it wont work. do these steps:
