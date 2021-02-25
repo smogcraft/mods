@@ -24,3 +24,6 @@ you just completed initial set up, now you know
 windows: run the `update.bat`
 
 mac/linux: run the `update.sh`
+
+
+I own NONE of these mods, please dont sue me
