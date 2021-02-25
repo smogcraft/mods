@@ -13,7 +13,7 @@ If you have a `mods` folder already, it wont work. do these steps:
 3.  put the folder you took out back into the `.minecraft` folder
 4.  say yes to anything asking you to merge the folder
 
-**these mods require fabric 1.16.5, so make sure to have those
+**these mods require fabric 1.16.5, so make sure to have those**
 
 ## congrats!
 
